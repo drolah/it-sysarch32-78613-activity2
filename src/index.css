@@ -41,6 +41,11 @@ footer {
 
 }
 
+.card:hover {
+  transition: all 1s;
+    background-color: aqua;
+}
+
 .card .name {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
